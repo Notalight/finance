@@ -1,3 +1,8 @@
-/dist
-/node_modules
-/package-lock.json
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+test1.db
+.gitignore
