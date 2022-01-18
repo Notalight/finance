@@ -6,3 +6,4 @@ tmp/
 temp/
 test1.db
 .gitignore
+package-lock.json

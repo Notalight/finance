@@ -7,6 +7,9 @@ export class Account {
     id!: number;
 
     @Column("text")
+    type!: string;
+
+    @Column("text")
     name!: string;
 
     @Column("text")

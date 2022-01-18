@@ -26,6 +26,6 @@
    "dependencies": {
       "reflect-metadata": "^0.1.13",
       "sqlite3": "^4.2.0",
-      "typeorm": "0.2.41"
+      "typeorm": "^0.2.41"
    }
 }
